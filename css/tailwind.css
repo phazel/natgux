@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Cheque;
+    src: url(../assets/fonts/Cheque/Cheque-Black.woff2) format("woff2");
+  }
+  @font-face {
+    font-family: Luthier;
+    src: url(../assets/fonts/Luthier/Luthier-Regular.ttf) format("truetype");
+  }
+}

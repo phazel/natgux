@@ -1,0 +1,25 @@
+{
+  "name": "natgux",
+  "version": "1.0.0",
+  "description": "Nat's UX website",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phazel/natgux.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phazel/natgux/issues"
+  },
+  "homepage": "https://github.com/phazel/natgux#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "postcss-cli": "^9.1.0",
+    "tailwindcss": "^3.0.24"
+  }
+}
