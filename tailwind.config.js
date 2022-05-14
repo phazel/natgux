@@ -11,14 +11,7 @@ module.exports = {
         'body': ['Luthier', ...defaultTheme.fontFamily.sans],
       },
       colors: {
-        blue: {
-          DEFAULT: '#3c7ee8',
-          dark: '#27345e',
-        },
-        purple: {
-          DEFAULT: '#4125a8',
-          dark: '#261a54',
-        },
+        grey: '#D9D9D9',
       },
     },
   },
