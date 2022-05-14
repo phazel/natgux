@@ -8,7 +8,7 @@
     src: url(../assets/fonts/Cheque/Cheque-Black.woff2) format("woff2");
   }
   @font-face {
-    font-family: Luthier;
-    src: url(../assets/fonts/Luthier/Luthier-Regular.ttf) format("truetype");
+    font-family: BebasNeue;
+    src: url(../assets/fonts/BebasNeue/BebasNeue-Regular.ttf) format("truetype");
   }
 }

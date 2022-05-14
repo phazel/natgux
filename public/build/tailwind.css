@@ -384,8 +384,8 @@ Ensure the default browser behavior of the `hidden` attribute.
     src: url(../assets/fonts/Cheque/Cheque-Black.woff2) format("woff2");
   }
   @font-face {
-    font-family: Luthier;
-    src: url(../assets/fonts/Luthier/Luthier-Regular.ttf) format("truetype");
+    font-family: BebasNeue;
+    src: url(../assets/fonts/BebasNeue/BebasNeue-Regular.ttf) format("truetype");
   }
 
 *, ::before, ::after {
@@ -468,6 +468,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .invisible {
   visibility: hidden;
 }
+.m-2 {
+  margin: 0.5rem;
+}
 .table {
   display: table;
 }
@@ -513,11 +516,8 @@ Ensure the default browser behavior of the `hidden` attribute.
   --tw-bg-opacity: 1;
   background-color: rgb(217 217 217 / var(--tw-bg-opacity));
 }
-.text-center {
-  text-align: center;
-}
 .font-body {
-  font-family: Luthier, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: BebasNeue, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 .italic {
   font-style: italic;

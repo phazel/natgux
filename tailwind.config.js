@@ -8,7 +8,7 @@ module.exports = {
     extend: {
       fontFamily: {
         'display': ['Cheque', ...defaultTheme.fontFamily.serif],
-        'body': ['Luthier', ...defaultTheme.fontFamily.sans],
+        'body': ['BebasNeue', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         grey: '#D9D9D9',
